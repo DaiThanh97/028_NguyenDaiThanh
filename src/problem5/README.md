@@ -12,7 +12,7 @@
 1. Clone the project to local machine and go to the folder
 
 ```
-git clone https://github.com/technical-test.git
+git clone https://github.com/DaiThanh97/028_NguyenDaiThanh.git
 cd technical-test/problem5
 ```
 
